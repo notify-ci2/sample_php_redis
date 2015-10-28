@@ -20,7 +20,6 @@ archive: true
 cache: true
 
 notifications:
-  email:
-    varsha@shippable.com
+  email: false
     
 build_image: shippable/minv2
