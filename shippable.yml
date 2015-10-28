@@ -22,4 +22,4 @@ cache: true
 notifications:
   email: false
     
-build_image: shippable/minv2
+#build_image: shippable/minv2
