@@ -16,7 +16,7 @@ script:
 
 archive: true
 
-cache: true
-
 notifications:
-  email: false
+  email:
+    notify_ci34@yahoo.in
+  irc: "chat.freenode.net#test-irc"
